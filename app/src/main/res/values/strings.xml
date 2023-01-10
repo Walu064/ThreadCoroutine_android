@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ThreadCoroutine</string>
+    <string name="wyswietlaj_aktualna_date_i_czas">Wyswietlaj aktualna date i czas!</string>
+    <string name="rozpocznij_dzialanie_licznika">Rozpocznij dzialanie licznika!</string>
+    <string name="wy_wietl_aktualn_dat_i_czas">Wyświetl aktualną datę i czas!</string>
+    <string name="uruchom_licznik">Uruchom licznik!</string>
+</resources>
